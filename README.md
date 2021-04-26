@@ -7,7 +7,6 @@ This project is a webpage for a marketing company called Horiseon. The webpage d
 Here is the web application's appearance and functionality:
 
 
+# Deployment
 
-
-
-Deployment
+https://sapaitz.github.io/Unit-1-Homework/
